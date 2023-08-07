@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"particle": "item/custom/iron_apple",
-		"layer0": "item/custom/iron_apple"
-	}
-}

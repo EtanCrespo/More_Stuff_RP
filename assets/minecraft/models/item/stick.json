@@ -5,7 +5,7 @@
   },
 
     "overrides": [
-  		{ "predicate": {"custom_model_data": 1}, "model": "item/custom/levitation_stick"},
-  		{ "predicate": {"custom_model_data": 2}, "model": "item/custom/levitation_stick_mob"}
+  		{ "predicate": {"custom_model_data": 1}, "model": "more_stuff:item/levitation_stick"},
+  		{ "predicate": {"custom_model_data": 2}, "model": "more_stuff:item/levitation_stick_mob"}
  ]
 }

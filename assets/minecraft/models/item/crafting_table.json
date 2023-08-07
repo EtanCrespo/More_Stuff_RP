@@ -10,6 +10,6 @@
     "west": "minecraft:block/crafting_table_front"
   },
   "overrides":[
-    { "predicate": {"custom_model_data": 32119}, "model": "item/custom/custom_crafting_table"}
+    { "predicate": {"custom_model_data": 32119}, "model": "more_stuff:item/custom_crafting_table"}
   ]
 }

@@ -5,7 +5,7 @@
   },
   
     "overrides": [
-  		{ "predicate": {"custom_model_data": 1}, "model": "item/custom/potions_recipes"},
-		{ "predicate": {"custom_model_data": 2}, "model": "item/custom/swordped"}
+  		{ "predicate": {"custom_model_data": 1}, "model": "more_stuff:item/potions_recipes"},
+		{ "predicate": {"custom_model_data": 2}, "model": "more_stuff:item/swordped"}
  ]
 }

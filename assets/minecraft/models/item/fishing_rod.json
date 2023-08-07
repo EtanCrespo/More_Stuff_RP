@@ -14,25 +14,25 @@
             "custom_model_data":1,
             "cast": 0
             },
-            "model": "item/custom/grapin"
+            "model": "more_stuff:item/grapin"
         },
         {"predicate": {
             "custom_model_data":1,
             "cast": 1
             },
-            "model": "item/custom/grapin_use"
+            "model": "more_stuff:item/grapin_use"
         },
 		{"predicate": {
             "custom_model_data":2,
             "cast": 0
             },
-            "model": "item/custom/grapin_v2"
+            "model": "more_stuff:item/grapin_v2"
         },
         {"predicate": {
             "custom_model_data":2,
             "cast": 1
             },
-            "model": "item/custom/grapin_v2_use"
+            "model": "more_stuff:item/grapin_v2_use"
         }
     ]
 }
