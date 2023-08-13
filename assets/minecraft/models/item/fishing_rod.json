@@ -11,25 +11,25 @@
             "model": "item/fishing_rod_cast"
         },
         {"predicate": {
-            "custom_model_data":1,
+            "custom_model_data":718117,
             "cast": 0
             },
             "model": "more_stuff:item/grapin"
         },
         {"predicate": {
-            "custom_model_data":1,
+            "custom_model_data":718117,
             "cast": 1
             },
             "model": "more_stuff:item/grapin_use"
         },
 		{"predicate": {
-            "custom_model_data":2,
+            "custom_model_data":718116,
             "cast": 0
             },
             "model": "more_stuff:item/grapin_v2"
         },
         {"predicate": {
-            "custom_model_data":2,
+            "custom_model_data":718116,
             "cast": 1
             },
             "model": "more_stuff:item/grapin_v2_use"
