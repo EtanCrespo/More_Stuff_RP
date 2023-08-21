@@ -1,8 +1,0 @@
-{"providers":[
-	{
-		"type":"bitmap",
-		"file":"minecraft:gui/custom_crafting_table_gui3x3.png",
-		"ascent":-4,
-		"height":54,
-		"chars":["\ueff1"]
-		}]}
