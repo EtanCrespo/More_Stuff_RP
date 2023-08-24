@@ -5,5 +5,8 @@
 	"ms.item:grappling_gun":"Grapling Gun",
     "ms.item:wrench":"Wrench",
 	"ms.item:potions_recipes":"Potions Recipes",
-	"ms.item:levitation_stick":"Levitation Stick"
+	"ms.item:levitation_stick":"Levitation Stick",
+	"ms.item:disenchantment_book":"Disenchantment Book",
+	"ms.item:rainbow_bed":"Rainbow Bed",
+	"ms.item:rainbow_wool":"Rainbow Wool"
 }

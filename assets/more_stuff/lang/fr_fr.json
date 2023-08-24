@@ -5,5 +5,8 @@
 	"ms.item:grappling_gun":"Grapin",
     "ms.item:wrench":"Clé",
 	"ms.item:potions_recipes":"Recueil de potions",
-	"ms.item:levitation_stick":"Bâton de lévitation"
+	"ms.item:levitation_stick":"Bâton de lévitation",
+	"ms.item:disenchantment_book":"Livre de désenchantement",
+	"ms.item:rainbow_bed":"Lit multicolore",
+	"ms.item:rainbow_wool":"Laine multicolore"
 }
