@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/diamond_axe"
+  },
+  
+    "overrides": [
+  		{ "predicate": {"custom_model_data": 41521}, "model": "more_stuff:item/diamond_double_axe"}
+ ]
+}

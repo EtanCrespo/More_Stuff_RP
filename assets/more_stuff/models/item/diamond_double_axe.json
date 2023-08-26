@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"particle": "more_stuff:item/diamond_double_axe",
+		"layer0": "more_stuff:item/diamond_double_axe"
+	}
+}
