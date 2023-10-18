@@ -2,6 +2,6 @@
   "parent": "minecraft:item/template_spawn_egg",
   "overrides":[
 	{ "predicate": {"custom_model_data": 1819}, "model": "more_stuff:item/rainbow_wool"},
-    { "predicate": {"custom_model_data": 32119}, "model": "more_stuff:item/custom_crafting_table"}
+    { "predicate": {"custom_model_data": 32119}, "model": "custom_crafting_table:item/custom_crafting_table"}
   ]
 }

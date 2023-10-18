@@ -5,7 +5,7 @@
   },
   
   "overrides": [
-	{ "predicate": {"custom_model_data": 1}, "model": "more_stuff:item/custom_crafting_gui3"},
-	{ "predicate": {"custom_model_data": 2}, "model": "more_stuff:item/void"}
+	{ "predicate": {"custom_model_data": 1}, "model": "custom_crafting_table:item/custom_crafting_gui3"},
+	{ "predicate": {"custom_model_data": 2}, "model": "custom_crafting_table:item/void"}
 	]
 }
