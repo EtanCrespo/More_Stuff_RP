@@ -1,4 +1,6 @@
 {
 	"cct.gui:custom_crafting_table":"Établi personnalisé",
-	"cct.item:custom_crafting_table":"Établi personnalisé"
+	"cct.item:custom_crafting_table":"Établi personnalisé",
+	"cct.gui:next_page":"Page suivante",
+	"cct.gui:previous_page":"Page précédente"
 }
