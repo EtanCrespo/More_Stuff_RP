@@ -7,6 +7,6 @@
     "overrides": [
   		{ "predicate": {"custom_model_data": 12522}, "model": "more_stuff:item/levitation_stick"},
   		{ "predicate": {"custom_model_data": 2}, "model": "more_stuff:item/flying_stick"},
-		{ "predicate": {"custom_model_data": 23185}, "model": "more_stuff:item/wrench"}
+		  { "predicate": {"custom_model_data": 23185}, "model": "more_stuff:item/wrench"}
  ]
 }

@@ -5,6 +5,7 @@
   },
   
   "overrides": [
-	{ "predicate": {"custom_model_data": 718}, "model": "more_stuff:item/recipes/grapin_recipe"}
+	{ "predicate": {"custom_model_data": 718}, "model": "more_stuff:item/recipes/grapin_recipe"},
+  { "predicate": {"custom_model_data": 49195}, "model": "more_stuff:item/recipes/disenchantment_book_recipe"}
 	]
 }
