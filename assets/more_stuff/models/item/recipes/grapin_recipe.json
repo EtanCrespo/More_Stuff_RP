@@ -1,0 +1,15 @@
+{
+	"parent": "custom_crafting_table:item/single_output_recipe",
+	"textures": {
+		"0": "custom_crafting_table:item/blank",
+		"1": "custom_crafting_table:item/blank",
+		"2": "minecraft:item/arrow",
+		"3": "custom_crafting_table:item/blank",
+		"4": "minecraft:item/string",
+		"5": "custom_crafting_table:item/blank",
+		"6": "minecraft:item/fishing_rod",
+		"7": "custom_crafting_table:item/blank",
+		"8": "custom_crafting_table:item/blank",
+		"O": "more_stuff:item/recipes/grapin"
+	}
+}

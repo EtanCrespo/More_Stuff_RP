@@ -2,5 +2,7 @@
 	"cct.gui:custom_crafting_table":"Custom Crafting Table",
 	"cct.item:custom_crafting_table":"Custom Crafting Table",
 	"cct.gui:next_page":"Next Page",
-	"cct.gui:previous_page":"Previous Page"
+	"cct.gui:previous_page":"Previous Page",
+	"cct.gui:show_recipe":"Show Recipes",
+	"cct.gui:hide_recipe":"Hide Recipes"
 }
