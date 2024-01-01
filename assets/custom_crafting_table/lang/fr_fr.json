@@ -4,5 +4,6 @@
 	"cct.gui:next_page":"Page suivante",
 	"cct.gui:previous_page":"Page précédente",
 	"cct.gui:show_recipe":"Montrer les recettes",
-	"cct.gui:hide_recipe":"Cacher les recettes"
+	"cct.gui:hide_recipe":"Cacher les recettes",
+	"cct.recipe:shapeless":"Sans forme"
 }
