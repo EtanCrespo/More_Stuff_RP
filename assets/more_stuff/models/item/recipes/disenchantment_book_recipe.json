@@ -3,9 +3,6 @@
 	"textures": {
 		"4": "item/book",
 		"7": "item/experience_bottle",
-		"particle": "custom_crafting_table:item/custom_recipe_background",
-		"b": "custom_crafting_table:item/custom_recipe_background",
-		"bb": "custom_crafting_table:item/custom_recipe_background_behind",
 		"O": "item/enchanted_book",
 		"pivot": "block/grindstone_pivot",
 		"round": "block/grindstone_round",

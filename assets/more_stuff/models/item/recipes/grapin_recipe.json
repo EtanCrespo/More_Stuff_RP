@@ -5,10 +5,7 @@
 		"4": "item/string",
 		"5": "more_stuff:item/arrow",
 		"6": "item/fishing_rod",
-		"7": "more_stuff:item/stick",
-		"bb": "custom_crafting_table:item/custom_recipe_background_behind",
-		"particle": "custom_crafting_table:item/custom_recipe_background",
-		"b": "custom_crafting_table:item/custom_recipe_background"
+		"7": "more_stuff:item/stick"
 	},
 	"elements": [
 		{
